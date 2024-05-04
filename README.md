@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+<img src="preview/photo1.jpg" alt="preview image 1" width="300" height="630">
 
 ## Getting Started
 
