@@ -1,7 +1,12 @@
 import 'package:favorite_food_page/widgets/food_item.dart';
 import 'package:flutter/material.dart';
 
-class FoodScreen extends StatelessWidget {
+class FoodScreen extends StatefulWidget {
+  @override
+  State<FoodScreen> createState() => _FoodScreenState();
+}
+
+class _FoodScreenState extends State<FoodScreen> {
   List<String> breakfast_foods = [
     "Pancakes",
     "Bacon and eggs",
@@ -35,6 +40,7 @@ class FoodScreen extends StatelessWidget {
   ];
 
   List<String> fruits = ["Apple", "Banana", "Orange", "Strawbery", "Mango"];
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

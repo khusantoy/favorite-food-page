@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
