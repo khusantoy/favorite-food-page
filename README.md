@@ -6,7 +6,7 @@ A new Flutter project.
 
 <img src="preview/photo1.jpg" alt="preview image 1" width="300" height="630">
 
-> More about it in the telegram: https://t.me/khusanboyscodes/232
+> More about it in the telegram: https://t.me/s/khusanboyscodes/232
 
 ## Getting Started
 
